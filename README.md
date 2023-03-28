@@ -6,8 +6,8 @@ Me gusta colaborar en proyectos de código abierto y contribuir a la comunidad d
 Soy un miembro proactivo y colaborador de cualquier equipo de desarrollo en el que trabaje, y siempre estoy buscando maneras de mejorar el proceso de desarrollo y la eficiencia del equipo. Siéntete libre de revisar mis proyectos y contribuciones en GitHub, y si tienes alguna pregunta, ¡no dudes en ponerte en contacto conmigo!
 
 Proyectos Destacados
-Bolsillo Feliz
-Bolsillo Feliz es un proyecto que nació de la idea de ayudar a las personas a ahorrar dinero en sus compras diarias. Nos dedicamos a buscar y comparar los mejores precios en diferentes tiendas en línea y físicas para garantizar que nuestros usuarios siempre obtengan el mejor valor por su dinero.
+Bolsillo Feliz: 
+ Bolsillo Feliz es un proyecto que nació de la idea de ayudar a las personas a ahorrar dinero en sus compras diarias. Nos dedicamos a buscar y comparar los mejores precios en diferentes tiendas en línea y físicas para garantizar que nuestros usuarios siempre obtengan el mejor valor por su dinero.
 
 Nuestro objetivo es hacer que el proceso de compra sea más fácil y eficiente para nuestros usuarios al proporcionarles información precisa y actualizada sobre los precios de diferentes productos. Nos enorgullece ofrecer una plataforma fácil de usar y amigable para el usuario que simplifica el proceso de búsqueda y comparación de precios.
 
