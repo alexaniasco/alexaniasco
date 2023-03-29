@@ -18,8 +18,6 @@ Como tatuador, he tenido el placer de trabajar por cuenta propia durante dos añ
 
 Durante mi tiempo como tatuador, he tenido la oportunidad de trabajar con una amplia variedad de diseños y estilos, lo que me ha ayudado a mejorar y perfeccionar mi técnica. Soy un apasionado por el arte del tatuaje y siempre estoy buscando maneras de mejorar y evolucionar en mi trabajo.
 
-Mi enfoque en la higiene y la seguridad es una prioridad para mí, y siempre me aseguro de que mis clientes se sientan cómodos y seguros durante todo el proceso de tatuaje. Me enorgullece brindar un servicio profesional y de alta calidad que garantice la satisfacción de mis clientes.
-
 Nivel de ingles: Intermedio
 
 Educación
