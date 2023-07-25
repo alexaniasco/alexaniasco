@@ -13,11 +13,6 @@ Nuestro objetivo es hacer que el proceso de compra sea más fácil y eficiente p
 
 Con nuestro enfoque en la transparencia y la honestidad, nos aseguramos de que nuestros usuarios tengan una experiencia de compra confiable y satisfactoria. Estamos comprometidos en ofrecer el mejor servicio y calidad a nuestros usuarios y siempre estamos buscando maneras de mejorar y crecer como empresa.
 
-Experiencia Laboral
-Como tatuador, he tenido el placer de trabajar por cuenta propia durante dos años, lo que me ha permitido desarrollar mi propio estilo y enfoque en este arte. Me especializo en la creación de tatuajes personalizados y únicos que reflejan los intereses y la personalidad de mis clientes.
-
-Durante mi tiempo como tatuador, he tenido la oportunidad de trabajar con una amplia variedad de diseños y estilos, lo que me ha ayudado a mejorar y perfeccionar mi técnica. Soy un apasionado por el arte del tatuaje y siempre estoy buscando maneras de mejorar y evolucionar en mi trabajo.
-
 Nivel de ingles: Intermedio
 
 Educación
