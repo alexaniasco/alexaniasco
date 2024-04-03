@@ -1,5 +1,5 @@
 Bienvenido(a) a mi perfil de GitHub!
-Soy un programador Full Stack apasionado por la creación de soluciones web eficientes y efectivas. Tengo experiencia en tecnologías como React, Redux, Node.js, JavaScript y PostgreSQL, y siempre estoy en busca de aprender y explorar nuevas herramientas y lenguajes.
+Soy un programador Full Stack apasionado por la creación de soluciones web eficientes y efectivas. Tengo experiencia en tecnologías como React,React-Native Redux, Node js,Nest js, JavaScript, Python ,Robotframework y PostgreSQL, y siempre estoy en busca de aprender y explorar nuevas herramientas y lenguajes.
 
 Me gusta colaborar en proyectos de código abierto y contribuir a la comunidad de desarrolladores. Me enfoco en escribir código limpio y eficiente que se adapte a las mejores prácticas de la industria. Disfruto resolviendo problemas y creando soluciones que mejoren la calidad de vida de las personas.
 
@@ -13,9 +13,13 @@ Curso de Desarrollo Web Full Stack, Henry
 Certificación en Técnicas de Tatuaje, Buenos Aires Tattoo
 Habilidades
 React
+ReactNative
 Redux
 Node.js
+Nest js
 JavaScript
+Python
+Robotframework
 PostgreSQL
 HTML
 CSS
