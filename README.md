@@ -28,4 +28,4 @@ Contacto
 LinkedIn: https://www.linkedin.com/in/alexhuaitiao/
 Email: alexaniasco@outlook.com
 
-Portafolio: https://alex-huaitiao.vercel.app
+Portafolio: https://alexhuaitiao.vercel.app
