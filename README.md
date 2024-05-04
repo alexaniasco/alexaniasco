@@ -10,7 +10,6 @@ Nivel de ingles: Intermedio
 Educación
 
 Curso de Desarrollo Web Full Stack, Henry
-Certificación en Técnicas de Tatuaje, Buenos Aires Tattoo
 Habilidades
 React
 ReactNative
@@ -27,5 +26,4 @@ Git
 Contacto
 LinkedIn: https://www.linkedin.com/in/alexhuaitiao/
 Email: alexaniasco@outlook.com
-
 Portafolio: https://alexhuaitiao.vercel.app
